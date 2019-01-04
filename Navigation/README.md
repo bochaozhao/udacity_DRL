@@ -30,9 +30,9 @@ Please follow the instructions in the DRLND GitHub repository (https://github.co
 
 Step 2: Clone this Repository
 
-The Navigation folder includes Navigation_train.ipynb (notebook file for training the agent), dqn_agent.py (python file for our agent class), model.py (python file for our Q network), checkpoint.pth (trainined weights for the Q network) and Banana.app (our environment).
+The Navigation folder includes `Navigation_train.ipynb` (notebook file for training the agent), `dqn_agent.py` (python file for our agent class), `model.py` (python file for our Q network), `checkpoint.pth` (trainined weights for the Q network) and `Banana.app` (our environment).
 
-Note that the Banana.app file is for Mac OSX specifically. To download environment for other OS, see the link below. You need only select the environment that matches your operating system:
+Note that the `Banana.app` file is for Mac OSX specifically. To download environment for other OS, see the link below. You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
@@ -42,7 +42,7 @@ Note that the Banana.app file is for Mac OSX specifically. To download environme
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-If you used one of the links above to download the environment, then you also need to place the file in the same folder to the Navigation_train.ipynb file, and unzip (or decompress) the file. 
+If you used one of the links above to download the environment, then you also need to place the file in the same folder to the `Navigation_train.ipynb` file, and unzip (or decompress) the file. 
 
 ### Instructions
 
