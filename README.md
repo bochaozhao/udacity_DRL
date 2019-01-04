@@ -1,2 +1,2 @@
 # udacity_DRL
-udacity deep reinforcement learning 
+Project files for udacity deep reinforcement learning nanodegree.
