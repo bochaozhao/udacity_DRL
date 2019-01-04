@@ -30,7 +30,7 @@ Please follow the instructions in the DRLND GitHub repository (https://github.co
 
 Step 2: Clone this Repository
 
-The Navigation folder includes `Navigation_train.ipynb` (notebook file for training the agent), `dqn_agent.py` (python file for our agent class), `model.py` (python file for our Q network), `checkpoint.pth` (trainined weights for the Q network) and `Banana.app` (our environment).
+The Navigation folder includes `Navigation_train.ipynb` (notebook file for training the agent), `dqn_agent.py` (Python file for our agent class), `model.py` (Python file for our Q network), `checkpoint.pth` (trainined weights for the Q network) and `Banana.app` (our environment).
 
 Note that the `Banana.app` file is for Mac OSX specifically. To download environment for other OS, see the link below. You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
