@@ -43,9 +43,9 @@ Please follow the instructions in the DRLND GitHub repository (https://github.co
 
 2. Clone this Repository
 
-The `Continuous_Control` folder includes `Continuous_Control.ipynb` (notebook file for training the agent), `ddpg_agent.py` (Python file for our agent and replay buffer class), `model.py` (Python file for our actor and critic networks), `checkpoint_actor.pth` (trained weights for the actor network), `checkpoint_critic.pth` (trained weights for the critic network) and `Reacher_Windows_x86_64` folder (contains our environment).
+The `Continuous_Control` folder includes `Continuous_Control.ipynb` (notebook file for training the agent), `ddpg_agent.py` (Python file for our agent and replay buffer class), `model.py` (Python file for our actor and critic networks), `checkpoint_actor.pth` (trained weights for the actor network), `checkpoint_critic.pth` (trained weights for the critic network).
 
-Note that the environment file is for Windows 64-bit specifically. To download environment for other OS, see the link below. 
+
 
 3. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
 
@@ -65,7 +65,7 @@ Note that the environment file is for Windows 64-bit specifically. To download e
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux_NoVis.zip) (version 1) or [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux_NoVis.zip) (version 2) to obtain the "headless" version of the environment.  You will **not** be able to watch the agent without enabling a virtual screen, but you will be able to train the agent.  (_To watch the agent, you should follow the instructions to [enable a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above._)
 
-If you used one of the links above to download the environment, then you also need to place the file in the same folder to the `Continuous_Control.ipynb` file, and unzip (or decompress) the file. 
+After downloading the environment, place the file in the same folder to the `Continuous_Control.ipynb` file, and unzip (or decompress) the file. 
 
 ### Instructions
 
